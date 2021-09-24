@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19302" started-at="2021-07-29T11:24:30 EET" finished-at="2021-07-29T11:24:49 EET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19302" started-at="2021-07-29T11:24:30 EET" finished-at="2021-07-29T11:24:49 EET">
+      <class name="com.lolaflora.automation.SuccessLoginCase">
+        <test-method status="PASS" signature="successTestCase()[pri:0, instance:com.lolaflora.automation.SuccessLoginCase@21213b92]" name="successTestCase" duration-ms="4583" started-at="2021-07-29T11:24:44 EET" finished-at="2021-07-29T11:24:49 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successTestCase -->
+      </class> <!-- com.lolaflora.automation.SuccessLoginCase -->
+      <class name="com.lolaflora.automation.FbSuccessLoginCase">
+        <test-method status="PASS" signature="fbSuccessTestCase()[pri:0, instance:com.lolaflora.automation.FbSuccessLoginCase@31610302]" name="fbSuccessTestCase" duration-ms="4012" started-at="2021-07-29T11:24:36 EET" finished-at="2021-07-29T11:24:40 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbSuccessTestCase -->
+      </class> <!-- com.lolaflora.automation.FbSuccessLoginCase -->
+      <class name="com.lolaflora.automation.FailureLoginCase">
+        <test-method status="PASS" signature="failureTestCase()[pri:0, instance:com.lolaflora.automation.FailureLoginCase@148080bb]" name="failureTestCase" duration-ms="6359" started-at="2021-07-29T11:24:30 EET" finished-at="2021-07-29T11:24:36 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failureTestCase -->
+      </class> <!-- com.lolaflora.automation.FailureLoginCase -->
+      <class name="com.lolaflora.automation.LinksControl">
+        <test-method status="PASS" signature="brokenLinkTestCase()[pri:0, instance:com.lolaflora.automation.LinksControl@71318ec4]" name="brokenLinkTestCase" duration-ms="4323" started-at="2021-07-29T11:24:40 EET" finished-at="2021-07-29T11:24:44 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinkTestCase -->
+      </class> <!-- com.lolaflora.automation.LinksControl -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

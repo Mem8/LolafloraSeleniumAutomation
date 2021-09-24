@@ -1,0 +1,4 @@
+com\lolaflora\automation\FailureLoginCase.class
+com\lolaflora\automation\LinksControl.class
+com\lolaflora\automation\FbSuccessLoginCase.class
+com\lolaflora\automation\SuccessLoginCase.class
